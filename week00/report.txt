@@ -1,0 +1,7 @@
+1. Create google account
+2. Create gitHub account
+3. Create os171 github repository
+4. Fill out the google form given
+5. Wait 24 hours and check submission status
+6. ssh to badak.cs.ui.ac.id
+
