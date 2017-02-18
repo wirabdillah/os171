@@ -1,1 +1,2 @@
 #wirabdillah
+I expect we will learn scripting and how OS works
