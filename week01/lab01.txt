@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 wira.abdillah StafCS 4096 Feb 18 23:05 .
+drwx--x--x  3 wira.abdillah StafCS 4096 Feb 17 10:07 ..
+drwxr-xr-x  8 wira.abdillah StafCS 4096 Feb 17 10:42 .git
+-rw-r--r--  1 wira.abdillah StafCS    7 Feb 17 10:04 README.md
+drwxr-xr-x  2 wira.abdillah StafCS 4096 Feb 17 10:11 key
+-rw-r--r--  1 wira.abdillah StafCS    0 Feb 18 23:05 lab01.txt
+drwxr-xr-x  2 wira.abdillah StafCS 4096 Feb 17 10:11 log
+drwxr-xr-x  2 wira.abdillah StafCS 4096 Feb 17 10:15 sandbox
+drwxr-xr-x  2 wira.abdillah StafCS 4096 Feb 17 10:41 week00
+drwxr-xr-x  2 wira.abdillah StafCS 4096 Feb 17 10:11 week01
+drwxr-xr-x  2 wira.abdillah StafCS 4096 Feb 17 10:11 week02
+drwxr-xr-x  2 wira.abdillah StafCS 4096 Feb 17 10:11 week03
+drwxr-xr-x  2 wira.abdillah StafCS 4096 Feb 17 10:11 week04
+drwxr-xr-x  2 wira.abdillah StafCS 4096 Feb 17 10:11 week05
+drwxr-xr-x  2 wira.abdillah StafCS 4096 Feb 17 10:11 week06
+drwxr-xr-x  2 wira.abdillah StafCS 4096 Feb 17 10:11 week07
+drwxr-xr-x  2 wira.abdillah StafCS 4096 Feb 17 10:11 week08
+drwxr-xr-x  2 wira.abdillah StafCS 4096 Feb 17 10:11 week09
+drwxr-xr-x  2 wira.abdillah StafCS 4096 Feb 17 10:11 week10
+drwxr-xr-x  2 wira.abdillah StafCS 4096 Feb 17 10:11 xtra
+/home/fasilkom/mahasiswa/w/wira.abdillah/os171/week01
